@@ -1,0 +1,17 @@
+,Measure,Value,Criterion
+0,Accuracy,0.9619526202440776,Criterion-gini
+1,F1Score,0.8579088471849866,Criterion-gini
+2,Accuracy,0.9698492462311558,Criterion-entropy
+3,F1Score,0.8870967741935484,Criterion-entropy
+4,Accuracy,0.9655419956927495,Criterion-gini
+5,F1Score,0.8709677419354839,Criterion-gini
+6,Accuracy,0.9691313711414213,Criterion-entropy
+7,F1Score,0.8853333333333333,Criterion-entropy
+8,Accuracy,0.9641062455132807,Criterion-gini
+9,F1Score,0.8655913978494624,Criterion-gini
+10,Accuracy,0.968413496051687,Criterion-entropy
+11,F1Score,0.8810810810810811,Criterion-entropy
+12,Accuracy,0.9698492462311558,Criterion-gini
+13,F1Score,0.8864864864864865,Criterion-gini
+14,Accuracy,0.9691313711414213,Criterion-entropy
+15,F1Score,0.8847184986595175,Criterion-entropy
